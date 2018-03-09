@@ -1,5 +1,5 @@
 body {
-  background-image: url(assets/images/logo.png), url(assets/images/bg.png);
+  background-image: url("assets/images/logo.png"), url("assets/images/bg.png");
   background-repeat: no-repeat;
   background-size: auto, 1024px;
 }
@@ -38,7 +38,7 @@ select{
   width: 220px;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url(assets/images/down-arrow.svg);
+  background-image: url("assets/images/down-arrow.svg");
   background-repeat: no-repeat;
   background-position-x: 95%;
   background-position-y: 8px;
