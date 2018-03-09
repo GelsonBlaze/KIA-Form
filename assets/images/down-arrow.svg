@@ -1,0 +1,28 @@
+<svg width="43" height="43" viewBox="0 0 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>BT_LINGUA</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-3263 -897)" figma:type="canvas">
+<g id="BT_LINGUA" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="Oval 2" style="mix-blend-mode:normal;" filter="url(#filter0_d)" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(3270 899)" fill="#2F343D" style="mix-blend-mode:normal;"/>
+</g>
+<g id="Fill 1" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="matrix(6.12323e-17 -1 1 6.12323e-17 3277.88 918)" fill="#FFFFFF" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" filterUnits="userSpaceOnUse" x="3263" y="897" width="43" height="43" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<desc>type="dropShadow" x="0" y="5" size="7" spread="0" color="0,0,0,0.138191" blend="normal"</desc>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 0"/>
+<feOffset dx="0" dy="5"/>
+<feGaussianBlur stdDeviation="3.5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.138191 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<path id="path0_fill" fill-rule="evenodd" d="M 14.5 29C 22.5081 29 29 22.5081 29 14.5C 29 6.49187 22.5081 0 14.5 0C 6.49187 0 0 6.49187 0 14.5C 0 22.5081 6.49187 29 14.5 29Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 6.56255 13.1249C 6.33083 13.1249 6.09911 13.0362 5.92261 12.8597L 0.265435 7.20249C -0.0884782 6.84858 -0.0884782 6.27652 0.265435 5.92261L 5.92261 0.265435C 6.27652 -0.0884782 6.84858 -0.0884782 7.20249 0.265435C 7.5564 0.619348 7.5564 1.1914 7.20249 1.54531L 2.18525 6.56255L 7.20249 11.5798C 7.5564 11.9337 7.5564 12.5058 7.20249 12.8597C 7.02599 13.0362 6.79427 13.1249 6.56255 13.1249Z"/>
+</defs>
+</svg>
