@@ -42,6 +42,8 @@ select{
   background-repeat: no-repeat;
   background-position-x: 95%;
   background-position-y: 8px;
+  border-radius: 0;
+  border-color: #ffffff;
 }
 .wrapper {
   padding-top: 270px;
