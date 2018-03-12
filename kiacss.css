@@ -75,7 +75,7 @@ form {
   width: 1024px;
   background-image: url("assets/bg.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: auto;
   background-position: center;
   margin-right: auto;
   margin-left: auto;
