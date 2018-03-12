@@ -17,13 +17,13 @@ label {
   color: #e6011d;
 }
 
-input[type=text], input[type=email] {
+input[type=text], input[type=email], input[type=tel] {
   width: 100%;
   text-align: center;
   font-size: 25px;
 }
 
-input[type=text], input[type=email] {
+input[type=text], input[type=email], input[type=tel] {
   height: 50px;
   
 }
@@ -38,7 +38,7 @@ select{
   width: 265px;
   -webkit-appearance: none;
   -moz-appearance: none;
-  background-image: url("assets/images/down-arrow.svg");
+  background-image: url("../images/down-arrow.svg");
   background-repeat: no-repeat;
   background-position-x: 90%;
   background-position-y: 15px;
@@ -50,7 +50,6 @@ select{
 img {
   display:block;
   margin:auto;
-  padding-top: 110px;
 }
 
 form {
@@ -73,7 +72,7 @@ form {
 }
 .wrapper {
   width: 1024px;
-  background-image: url("assets/images/bg.png");
+  background-image: url("../images/bg.png");
   background-repeat: no-repeat;
   background-size: auto;
   background-position: center;
